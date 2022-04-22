@@ -1,0 +1,8 @@
+.textStyle {
+    margin-left: 34px;
+    margin-right: 34px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+    font-size: 57px;
+    color: rgba(255, 255, 255, 255);
+}
